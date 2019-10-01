@@ -1,7 +1,7 @@
 # cs321-hmcgough
 
 
-Branch Spreadsheet implements a spreadsheet program using Windows Forms and uses design patterns such as singletons, observers and model view controller.
+<b>Branch Spreadsheet</b> implements a spreadsheet program using Windows Forms and uses design patterns such as singletons, observers and model view controller.
 
 Branch BSTtreee implements a Binary Search Tree using templated types  
 
